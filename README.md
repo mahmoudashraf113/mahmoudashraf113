@@ -1,12 +1,12 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Mahmoud%20Ashraf&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Engineer%20|%20Blue%20Team%20|%20SOC%20Analyst&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=300&color=0:000814,50:001D3D,100:003566&text=Mahmoud%20Ashraf&fontColor=00BFFF&stroke=00BFFF&fontSize=60&animation=twinkling&fontAlignY=45&desc=Cybersecurity%20Engineer%20%7C%20Blue%20Team%20%7C%20SOC%20Analyst&descAlignY=67"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=30&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=900&lines=Blue+Team+Engineer;SOC+Analyst+Learner;Cybersecurity+Student;Network+Security+Specialist;Threat+Detection+%26+Defense" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&multiline=true&width=950&height=120&lines=DEFENDING+SYSTEMS+%F0%9F%9B%A1%EF%B8%8F;MONITORING+THREATS+%F0%9F%94%8D;BUILDING+SECURE+NETWORKS+%F0%9F%8C%90" />
 
 </div>
 
@@ -14,48 +14,60 @@
 
 <div align="center">
 
-<a href="https://komarev.com/ghpvc/?username=mahmoudashraf113">
-<img src="https://komarev.com/ghpvc/?username=mahmoudashraf113&label=Profile+Views&color=0A66C2&style=for-the-badge"/>
-</a>
-
-<img src="https://img.shields.io/github/followers/mahmoudashraf113?style=for-the-badge&color=0A66C2"/>
-
-<img src="https://img.shields.io/github/stars/mahmoudashraf113?style=for-the-badge&color=0A66C2"/>
+<img src="https://img.shields.io/badge/Blue%20Team-00BFFF?style=for-the-badge&logo=probot&logoColor=white"/>
+<img src="https://img.shields.io/badge/SOC%20Analyst-001D3D?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cybersecurity-003566?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<table>
+<tr>
+<td width="50%">
 
-```yaml id="3p6mxn"
+# 🧠 Profile
+
+```yaml id="4n7wqp"
 Name: Mahmoud Ashraf
-Field: Cybersecurity Engineering
-Role: Blue Team / SOC Analyst
-Based In: Egypt
-
-Interests:
-  - Threat Detection
-  - Network Security
-  - Incident Response
+Role: Cybersecurity Engineer
+Track: Blue Team
+Focus:
   - SOC Operations
-  - Defensive Security
+  - Threat Detection
+  - Incident Response
+  - Network Security
 
-Programming:
-  - Python
-  - C++
-  - Java
-  - SQL
-  - HTML
-
-Goal:
-  Becoming a professional cybersecurity engineer
-  specialized in Blue Team operations and defense.
+Learning:
+  - SIEM Technologies
+  - Log Analysis
+  - Security Monitoring
 ```
 
+</td>
+
+<td width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mahmoudashraf113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-# 🌐 Contact & Socials
+# ⚔️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,java,html,mysql,linux,git,github,vscode" />
+
+</div>
+
+---
+
+# 🌐 Social Links
 
 <div align="center">
 
@@ -81,63 +93,15 @@ Goal:
 
 </div>
 
-<div align="center">
-
-### 📫 Email
-
-`mahm77udashraf@gmail.com`
-
-</div>
-
 ---
 
-# ⚡ Tech Arsenal
+# 📊 Advanced GitHub Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,html,mysql,linux,git,github,vscode" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudashraf113&theme=tokyonight&hide_border=true&background=00000000"/>
 
-</div>
-
----
-
-# 🛡️ Cybersecurity & Networking
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Blue%20Team-001F3F?style=for-the-badge&logo=windows11&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/SOC%20Analysis-003366?style=for-the-badge&logo=securityscorecard&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Threat%20Detection-0A66C2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/CCNA-Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Networking-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-
-</div>
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mahmoudashraf113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudashraf113&theme=tokyonight&hide_border=true&background=00000000"/>
-
-</div>
-
----
-
-# 📈 Most Used Languages
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudashraf113&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudashraf113&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
 </div>
 
@@ -153,7 +117,7 @@ Goal:
 
 ---
 
-# 🔥 Activity Graph
+# 🔥 Contribution Activity
 
 <div align="center">
 
@@ -163,8 +127,24 @@ Goal:
 
 ---
 
+# 👁️ Visitors
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F2027,50:203A43,100:2C5364"/>
+<img src="https://komarev.com/ghpvc/?username=mahmoudashraf113&style=for-the-badge&color=00BFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ “Cybersecurity is not a product, it's a process.”
+
+</div>
+
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:000814,50:001D3D,100:003566"/>
 
 </div>
